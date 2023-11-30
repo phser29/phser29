@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo-Naver&logoColor-white)]
-(quaj123@naver.com)
+![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo-Naver&logoColor-white)
 ![views](https://gh-hits.nomadcoders.workers.dev/view?username=phser29)
 
 ### 나를 소개하는 한 문장
