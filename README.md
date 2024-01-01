@@ -10,8 +10,9 @@ React와 Spring 만랩이 되고 싶은 자
 * 의료용 디지털 영상 표준(DICOM)활용 의료A.I 연동 개발 실무 프로젝트 
 
 ### 참여 프로젝트
-1. 쇼핑몰(React & spring)
-2. WMS
-3. 의료용 디지탈 영상 DICOM 활용 의료A.I 웹 서비스
+1. 쇼핑몰(spring)
+2. 쇼핑몰(react & next.js)
+3. WMS
+4. 의료용 디지탈 영상 DICOM 활용 의료A.I 웹 서비스
 
 ### 
