@@ -11,8 +11,4 @@ React와 Spring 만랩이 되고 싶은 자
 
 ### 참여 프로젝트
 1. 쇼핑몰(spring)
-2. 쇼핑몰(react & next.js)
-3. WMS
-4. 의료용 디지탈 영상 DICOM 활용 의료A.I 웹 서비스
-
-### 
+2. 의료용 디지탈 영상 DICOM 활용 의료A.I 웹 서비스
