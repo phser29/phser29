@@ -10,9 +10,8 @@
 * 의료용 디지털 영상 표준(DICOM)활용 의료A.I 연동 개발 실무 프로젝트
 
 ### 기술 스택
-* <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-* 
-* 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  
 
 ### 참여 프로젝트
 1. 쇼핑몰(spring)
