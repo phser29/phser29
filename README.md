@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/docker-5Dj33e?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7ffe5t?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/android-1ef55t?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/android-007396?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
 
