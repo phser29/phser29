@@ -30,6 +30,5 @@
 </div>
 
 
-### 참여 프로젝트
-1. 쇼핑몰(spring)
-2. 의료용 디지탈 영상 DICOM 활용 의료A.I 웹 서비스(springboot)
+### 팀 프로젝트
+1. 의료용 디지탈 영상 DICOM 활용 의료A.I 웹 서비스(springboot)
