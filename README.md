@@ -3,7 +3,7 @@
 ![views](https://gh-hits.nomadcoders.workers.dev/view?username=phser29)
 
 ### 나를 소개하는 한 문장
-안드로이드에 관심이 많은 React와 Spring 만랩이 되고 싶은 자
+안드로이드에 관심이 많은 node.js와 java 만랩이 되고 싶은 자
 
 ### 교육과정 수료
 * 가상화 솔루션(Docker)과 클라우드(AWS) 서비스 기반 웹&앱 개발자 양성
